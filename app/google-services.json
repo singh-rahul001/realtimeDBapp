@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401499666078",
+    "project_id": "realtimedb-2e935",
+    "storage_bucket": "realtimedb-2e935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401499666078:android:5be6fcbe1cd0dd6429ad8f",
+        "android_client_info": {
+          "package_name": "com.example.realtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401499666078-nd4qdc82r91ktvc5s85n5mdbngr2b39g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc9JhPEKSIXv2TkXbLoZGRq-YhuK7sbLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401499666078-nd4qdc82r91ktvc5s85n5mdbngr2b39g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
